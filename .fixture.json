@@ -1,0 +1,12 @@
+{
+  "_synthetic": true,
+  "generator": "gh-city-fixtures",
+  "repo": "gitcity-fixture-a/lora-kit",
+  "language": "Python",
+  "topics": [
+    "evaluation",
+    "machine-learning",
+    "pytorch",
+    "nlp"
+  ]
+}
