@@ -1,26 +1,6 @@
 // lora-kit — synthetic fixture
-// remove regression
-// 5d232d8291e5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip typing
+// cfe23aabf39f
 
 
 
