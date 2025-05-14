@@ -1,15 +1,4 @@
 // lora-kit — synthetic fixture
-// wip typing
-// cfe23aabf39f
-
-
-
-
-
-
-
-
-
-
-
+// wip embed cleanup
+// 1091f506425f
 
