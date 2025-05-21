@@ -1,20 +1,6 @@
 // lora-kit — synthetic fixture
-// remove off-by-one
-// e79e5909917d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add perf
+// 4b2158dcde33
 
 
 
