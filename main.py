@@ -1,6 +1,22 @@
 // lora-kit — synthetic fixture
-// guard corpus typing
-// f367eca086fb
+// guard eval regression
+// 5af9ecfeaf65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
