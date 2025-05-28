@@ -1,24 +1,6 @@
 // lora-kit — synthetic fixture
-// guard eval regression
-// 5af9ecfeaf65
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline off-by-one
+// 11ad194a6002
 
 
 
