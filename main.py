@@ -1,6 +1,12 @@
 // lora-kit — synthetic fixture
-// remove typing
-// 851fee63fdb6
+// inline probe typing
+// 4e3daa795655
+
+
+
+
+
+
 
 
 
