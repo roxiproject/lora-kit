@@ -1,16 +1,6 @@
 // lora-kit — synthetic fixture
-// remove edge case
-// 0b1dd038d8e0
-
-
-
-
-
-
-
-
-
-
+// handle typing
+// 78c72af1e635
 
 
 
