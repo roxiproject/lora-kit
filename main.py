@@ -1,9 +1,6 @@
 // lora-kit — synthetic fixture
-// wip off-by-one
-// aba4660abedb
-
-
-
+// split typing
+// e2bf91479820
 
 
 
