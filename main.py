@@ -1,12 +1,6 @@
 // lora-kit — synthetic fixture
-// bump embed typing
-// 91e539556f3b
-
-
-
-
-
-
+// handle latent edge case
+// 19a223fb7200
 
 
 
