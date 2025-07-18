@@ -1,6 +1,11 @@
 // lora-kit — synthetic fixture
-// add corpus typing
-// 68fc74355ec8
+// bump off-by-one
+// fe835515ee67
+
+
+
+
+
 
 
 
