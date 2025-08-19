@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// inline probe CI
-// f6df1d91714f
-
-
+// wip rlhf docs
+// 092317f2689c
 
 
 
