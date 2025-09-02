@@ -1,12 +1,6 @@
 // lora-kit — synthetic fixture
-// fix probe CI
-// 673eb001e3de
-
-
-
-
-
-
+// inline edge case
+// bedf4c329a35
 
 
 
