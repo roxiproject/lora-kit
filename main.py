@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// inline edge case
-// bedf4c329a35
-
-
+// split embed perf
+// 0a98767c8d93
 
 
 
