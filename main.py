@@ -1,30 +1,6 @@
 // lora-kit — synthetic fixture
-// handle eval flaky test
-// fb8f58ca0799
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip lora cleanup
+// 593dcc02bcee
 
 
 
