@@ -1,15 +1,5 @@
 // lora-kit — synthetic fixture
-// handle latent flaky test
-// 2ecf131eb238
-
-
-
-
-
-
-
-
-
-
+// cache off-by-one
+// f9741b07532e
 
 
