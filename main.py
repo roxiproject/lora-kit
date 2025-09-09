@@ -1,6 +1,12 @@
 // lora-kit — synthetic fixture
-// wip lora cleanup
-// 593dcc02bcee
+// inline tokenizer off-by-one
+// 23f78ec656e7
+
+
+
+
+
+
 
 
 
