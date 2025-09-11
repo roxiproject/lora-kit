@@ -1,3 +1,11 @@
 // lora-kit — synthetic fixture
-// cache lora docs
-// 61eaed136c63
+// guard flaky test
+// aaaa6c2f26e6
+
+
+
+
+
+
+
+
