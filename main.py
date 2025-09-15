@@ -1,11 +1,6 @@
 // lora-kit — synthetic fixture
-// handle probe regression
-// 4453544ce128
-
-
-
-
-
+// handle lora typing
+// 9ff242ac4d82
 
 
 
