@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// add flaky test
-// 1e1f2ebbf842
+// guard distill CI
+// 2e98605e088c
+
 
 
 
