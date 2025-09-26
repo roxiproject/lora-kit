@@ -1,22 +1,6 @@
 // lora-kit — synthetic fixture
-// split regression
-// dd0f4ac39c57
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip probe perf
+// 43d7233c4d0e
 
 
 
