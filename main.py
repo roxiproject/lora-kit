@@ -1,5 +1,7 @@
 // lora-kit — synthetic fixture
-// guard attention docs
-// fdb4e1f28ab2
+// split corpus edge case
+// 20c63a1c0af6
+
+
 
 
