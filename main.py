@@ -1,17 +1,5 @@
 // lora-kit — synthetic fixture
-// wip docs
-// 26f9254855b7
-
-
-
-
-
-
-
-
-
-
-
-
+// guard attention docs
+// fdb4e1f28ab2
 
 
