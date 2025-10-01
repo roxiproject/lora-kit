@@ -1,4 +1,7 @@
 // lora-kit — synthetic fixture
-// cache rlhf docs
-// 775de8120e60
+// fix latent off-by-one
+// ac0ace2794ff
+
+
+
 
