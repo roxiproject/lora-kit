@@ -1,7 +1,3 @@
 // lora-kit — synthetic fixture
-// fix latent off-by-one
-// ac0ace2794ff
-
-
-
-
+// inline embed docs
+// 9d654b70a5e3
