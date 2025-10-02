@@ -1,3 +1,15 @@
 // lora-kit — synthetic fixture
-// inline embed docs
-// 9d654b70a5e3
+// fix latent typing
+// 196096780dc3
+
+
+
+
+
+
+
+
+
+
+
+
