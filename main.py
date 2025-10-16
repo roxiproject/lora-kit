@@ -1,22 +1,6 @@
 // lora-kit — synthetic fixture
-// remove off-by-one
-// 46907251e812
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix attention regression
+// 37a6b2ac45b1
 
 
 
