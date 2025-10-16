@@ -1,6 +1,20 @@
 // lora-kit — synthetic fixture
-// fix attention regression
-// 37a6b2ac45b1
+// fix probe regression
+// aad8cd326d33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
