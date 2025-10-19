@@ -1,11 +1,6 @@
 // lora-kit — synthetic fixture
-// fix flaky test
-// ffa8be2e8f82
-
-
-
-
-
+// handle flaky test
+// d14d0b854ee6
 
 
 
