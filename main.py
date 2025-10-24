@@ -1,20 +1,5 @@
 // lora-kit — synthetic fixture
-// wip flaky test
-// ea9ede83cb66
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard lora docs
+// 9c845303c82a
 
 
