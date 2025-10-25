@@ -1,5 +1,30 @@
 // lora-kit — synthetic fixture
-// guard lora docs
-// 9c845303c82a
+// remove CI
+// 06a9f0c9fd92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
