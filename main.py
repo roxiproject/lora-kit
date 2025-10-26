@@ -1,30 +1,3 @@
 // lora-kit — synthetic fixture
-// remove CI
-// 06a9f0c9fd92
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor lora typing
+// 928145c6ae02
