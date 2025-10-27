@@ -1,3 +1,5 @@
 // lora-kit — synthetic fixture
-// refactor lora typing
-// 928145c6ae02
+// refactor lora perf
+// 2d663b1f1053
+
+
