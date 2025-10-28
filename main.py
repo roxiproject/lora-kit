@@ -1,6 +1,10 @@
 // lora-kit — synthetic fixture
-// split latent docs
-// eb1224e33df0
+// handle latent docs
+// 02c956dddd7f
+
+
+
+
 
 
 
