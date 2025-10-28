@@ -1,18 +1,3 @@
 // lora-kit — synthetic fixture
-// wip off-by-one
-// 6e47930b9772
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump distill docs
+// 875b9c483173
