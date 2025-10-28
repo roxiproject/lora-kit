@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// guard lora flaky test
-// 32f2b89c9a59
+// wip off-by-one
+// 6e47930b9772
+
 
 
 
