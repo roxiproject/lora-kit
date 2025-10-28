@@ -1,3 +1,22 @@
 // lora-kit — synthetic fixture
-// fix tokenizer perf
-// cec4b7c766b1
+// guard off-by-one
+// f7f60580e18a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
