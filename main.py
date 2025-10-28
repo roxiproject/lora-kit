@@ -1,20 +1,6 @@
 // lora-kit — synthetic fixture
-// fix probe perf
-// 4e84c2806c60
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add distill CI
+// 7991af0d1718
 
 
 
