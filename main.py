@@ -1,6 +1,9 @@
 // lora-kit — synthetic fixture
-// wip edge case
-// 64df71ac783f
+// guard perf
+// 950c0c43cb6b
+
+
+
 
 
 
