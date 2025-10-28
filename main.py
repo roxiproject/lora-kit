@@ -1,18 +1,3 @@
 // lora-kit — synthetic fixture
-// remove corpus perf
-// 6d09c93625a2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove edge case
+// 794155da1568
