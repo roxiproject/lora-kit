@@ -1,22 +1,6 @@
 // lora-kit — synthetic fixture
-// guard off-by-one
-// f7f60580e18a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle distill CI
+// 8f54522f35ac
 
 
 
