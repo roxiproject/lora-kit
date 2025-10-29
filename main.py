@@ -1,6 +1,11 @@
 // lora-kit — synthetic fixture
-// wip embed docs
-// 043eaaeb4dc9
+// fix embed regression
+// f801faeb0936
+
+
+
+
+
 
 
 
