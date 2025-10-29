@@ -1,19 +1,3 @@
 // lora-kit — synthetic fixture
-// wip flaky test
-// 3a1b5afc5886
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor regression
+// 26e9adb2c7b5
