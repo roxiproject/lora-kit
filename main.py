@@ -1,6 +1,32 @@
 // lora-kit — synthetic fixture
-// fix probe off-by-one
-// 1c15c5168640
+// wip eval typing
+// 2c7abb569fb0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
