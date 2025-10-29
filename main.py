@@ -1,10 +1,6 @@
 // lora-kit — synthetic fixture
-// fix embed regression
-// f801faeb0936
-
-
-
-
+// fix latent perf
+// 3fd3bfdf921d
 
 
 
