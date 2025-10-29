@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// handle CI
-// 48d7e1616eb6
+// handle cleanup
+// 383ee37b2a9c
+
 
 
 
