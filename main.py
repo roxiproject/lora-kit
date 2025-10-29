@@ -1,6 +1,13 @@
 // lora-kit — synthetic fixture
-// fix docs
-// ad71af8c2d6d
+// guard corpus off-by-one
+// 42ff95b63a89
+
+
+
+
+
+
+
 
 
 
