@@ -1,25 +1,6 @@
 // lora-kit — synthetic fixture
-// handle probe CI
-// 0af4cdf83cf8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard embed CI
+// 0a4884c20005
 
 
 
