@@ -1,29 +1,6 @@
 // lora-kit — synthetic fixture
-// refactor attention cleanup
-// 17dc513c1d97
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix probe off-by-one
+// 1c15c5168640
 
 
 
