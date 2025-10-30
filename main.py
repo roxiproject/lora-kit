@@ -1,6 +1,10 @@
 // lora-kit — synthetic fixture
-// guard corpus off-by-one
-// 42ff95b63a89
+// fix probe CI
+// f4adeee80a60
+
+
+
+
 
 
 
