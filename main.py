@@ -1,23 +1,3 @@
 // lora-kit — synthetic fixture
-// fix probe CI
-// f4adeee80a60
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump typing
+// 0162d4abfb82
