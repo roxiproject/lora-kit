@@ -1,32 +1,6 @@
 // lora-kit — synthetic fixture
-// cache perf
-// a0822e78f999
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip CI
+// c554b7669f72
 
 
 
