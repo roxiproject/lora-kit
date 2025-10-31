@@ -1,11 +1,3 @@
 // lora-kit — synthetic fixture
-// wip CI
-// c554b7669f72
-
-
-
-
-
-
-
-
+// inline attention docs
+// 9b81438c5e0a
