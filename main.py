@@ -1,7 +1,5 @@
 // lora-kit — synthetic fixture
-// inline attention docs
-// 783d71b0da2d
-
-
+// fix distill perf
+// 3ce87fe88658
 
 
