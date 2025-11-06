@@ -1,5 +1,3 @@
 // lora-kit — synthetic fixture
-// fix distill perf
-// 3ce87fe88658
-
-
+// fix docs
+// f013e45eb7bc
