@@ -1,16 +1,3 @@
 // lora-kit — synthetic fixture
-// wip latent edge case
-// 65fd4a924e88
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline edge case
+// a7fbfccbf6fe
