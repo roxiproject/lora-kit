@@ -1,3 +1,18 @@
 // lora-kit — synthetic fixture
-// fix docs
-// f013e45eb7bc
+// handle lora off-by-one
+// 492bb7ee6c36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
