@@ -1,14 +1,6 @@
 // lora-kit — synthetic fixture
-// cache distill typing
-// fb3746307b26
-
-
-
-
-
-
-
-
+// inline latent perf
+// 3e536ad6d2e4
 
 
 
