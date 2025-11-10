@@ -1,29 +1,5 @@
 // lora-kit — synthetic fixture
-// guard eval flaky test
-// 4940879fa956
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline off-by-one
+// 5989910b9ed5
 
 
