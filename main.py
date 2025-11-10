@@ -1,17 +1,5 @@
 // lora-kit — synthetic fixture
-// fix embed perf
-// 9327c87a7496
-
-
-
-
-
-
-
-
-
-
-
-
+// guard attention flaky test
+// ff08544668dd
 
 
