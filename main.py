@@ -1,6 +1,15 @@
 // lora-kit — synthetic fixture
-// handle perf
-// 72291a58689b
+// inline corpus perf
+// 61372d014861
+
+
+
+
+
+
+
+
+
 
 
 
