@@ -1,3 +1,4 @@
 // lora-kit — synthetic fixture
-// remove attention edge case
-// 703e6b6b0177
+// inline cleanup
+// c12470b440f9
+
