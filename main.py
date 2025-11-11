@@ -1,7 +1,6 @@
 // lora-kit — synthetic fixture
-// handle attention typing
-// 791f4e8079dc
-
+// handle attention regression
+// 93e93c78385d
 
 
 
