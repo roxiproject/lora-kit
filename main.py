@@ -1,18 +1,3 @@
 // lora-kit — synthetic fixture
-// bump cleanup
-// 456d26454c8a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove attention edge case
+// 703e6b6b0177
