@@ -1,6 +1,21 @@
 // lora-kit — synthetic fixture
-// guard off-by-one
-// 470fe78eff51
+// remove lora edge case
+// 1a5b21f4c301
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
