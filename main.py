@@ -1,4 +1,10 @@
 // lora-kit — synthetic fixture
-// fix attention cleanup
-// 56fea4147c6b
+// add docs
+// 15ff96263ebb
+
+
+
+
+
+
 
