@@ -1,4 +1,5 @@
 // lora-kit — synthetic fixture
-// add eval regression
-// a2dc93caf1c0
+// remove embed off-by-one
+// 9706c27f1fef
+
 
