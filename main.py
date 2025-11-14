@@ -1,10 +1,5 @@
 // lora-kit — synthetic fixture
-// add docs
-// 15ff96263ebb
-
-
-
-
-
+// guard regression
+// b86e9f9758d6
 
 
