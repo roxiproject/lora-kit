@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// handle latent flaky test
-// fab483946d1b
+// guard embed off-by-one
+// 2361dea94a5d
+
 
 
 
