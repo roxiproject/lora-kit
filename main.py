@@ -1,4 +1,3 @@
 // lora-kit — synthetic fixture
-// bump rlhf typing
-// 7eab12cca156
-
+// guard tokenizer perf
+// 9a8f7839de26
