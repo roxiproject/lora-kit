@@ -1,6 +1,10 @@
 // lora-kit — synthetic fixture
-// fix regression
-// c3af008cf2b3
+// split tokenizer off-by-one
+// d17119b506b9
+
+
+
+
 
 
 
