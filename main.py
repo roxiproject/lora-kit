@@ -1,5 +1,6 @@
 // lora-kit — synthetic fixture
-// handle typing
-// deb50dcb4ac2
+// guard lora perf
+// 484f9c552cf2
+
 
 
