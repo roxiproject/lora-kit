@@ -1,3 +1,9 @@
 // lora-kit — synthetic fixture
-// bump regression
-// 04887f9fbf90
+// inline attention off-by-one
+// 7573d7ae8145
+
+
+
+
+
+
