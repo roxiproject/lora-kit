@@ -1,4 +1,4 @@
 // lora-kit — synthetic fixture
-// refactor edge case
-// 46fe70950856
+// wip probe edge case
+// 6e3cd867abe3
 
