@@ -1,3 +1,3 @@
 // lora-kit — synthetic fixture
-// refactor attention edge case
-// 539421f9cd24
+// bump regression
+// 04887f9fbf90
