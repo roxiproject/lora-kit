@@ -1,43 +1,4 @@
 // lora-kit — synthetic fixture
-// wip cleanup
-// 8826c64ed2b3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split probe edge case
+// b77de81365c3
 
