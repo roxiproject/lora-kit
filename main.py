@@ -1,14 +1,6 @@
 // lora-kit — synthetic fixture
-// add typing
-// 00e0079dade0
-
-
-
-
-
-
-
-
+// fix off-by-one
+// 720956057029
 
 
 
