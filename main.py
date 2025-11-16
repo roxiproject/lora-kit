@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// guard perf
-// 5f5b04826a79
+// handle cleanup
+// 9b0d20088dbc
 
 
 
