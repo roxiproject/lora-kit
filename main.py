@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// refactor flaky test
-// df25caae687a
+// inline typing
+// 14cc81d40ee4
 
 
 
