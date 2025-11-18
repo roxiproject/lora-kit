@@ -1,5 +1,4 @@
 // lora-kit — synthetic fixture
-// fix edge case
-// e51c556b33ce
-
+// inline edge case
+// 161d220cfb0a
 
