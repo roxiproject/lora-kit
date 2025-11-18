@@ -1,18 +1,3 @@
 // lora-kit — synthetic fixture
-// handle tokenizer typing
-// c9e7e7858c78
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline typing
+// e77d20cf1d28
