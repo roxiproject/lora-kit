@@ -1,10 +1,6 @@
 // lora-kit — synthetic fixture
-// wip CI
-// 1a4c97bd6430
-
-
-
-
+// wip cleanup
+// 62f1534672a4
 
 
 
