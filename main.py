@@ -1,8 +1,3 @@
 // lora-kit — synthetic fixture
-// inline typing
-// 12105dbd4def
-
-
-
-
-
+// remove regression
+// e85084521f58
