@@ -1,15 +1,6 @@
 // lora-kit — synthetic fixture
-// bump eval perf
-// 112c9e6ddb10
-
-
-
-
-
-
-
-
-
+// handle CI
+// 755af8c64078
 
 
 
