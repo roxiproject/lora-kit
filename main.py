@@ -1,8 +1,3 @@
 // lora-kit — synthetic fixture
-// guard attention CI
-// cbb30cb581c8
-
-
-
-
-
+// split probe perf
+// adf41518d03c
