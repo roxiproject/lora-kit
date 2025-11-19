@@ -1,20 +1,6 @@
 // lora-kit — synthetic fixture
-// split docs
-// ae057feb09eb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard attention CI
+// cbb30cb581c8
 
 
 
