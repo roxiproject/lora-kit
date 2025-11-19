@@ -1,6 +1,5 @@
 // lora-kit — synthetic fixture
-// wip cleanup
-// 62f1534672a4
-
+// bump probe docs
+// 37bfa84f4a65
 
 
