@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// wip off-by-one
-// 21a58dd23eed
+// guard docs
+// 5b9428a67436
+
 
 
 
