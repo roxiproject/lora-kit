@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// split attention off-by-one
-// b53e51859c73
+// fix rlhf cleanup
+// 3f2fd8b4f335
+
 
 
 
