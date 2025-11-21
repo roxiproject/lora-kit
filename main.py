@@ -1,14 +1,4 @@
 // lora-kit — synthetic fixture
-// inline CI
-// 7ad4d8437cc9
-
-
-
-
-
-
-
-
-
-
+// remove lora regression
+// eae466f069c2
 
