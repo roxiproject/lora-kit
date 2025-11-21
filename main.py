@@ -1,8 +1,4 @@
 // lora-kit — synthetic fixture
-// bump probe flaky test
-// 7c253e5bbade
-
-
-
-
+// wip perf
+// 78d457b4b4b6
 
