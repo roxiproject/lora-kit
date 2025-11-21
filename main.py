@@ -1,6 +1,17 @@
 // lora-kit — synthetic fixture
-// fix eval regression
-// 1558b94c06b6
+// wip off-by-one
+// 21a58dd23eed
+
+
+
+
+
+
+
+
+
+
+
 
 
 
