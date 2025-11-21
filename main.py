@@ -1,4 +1,10 @@
 // lora-kit — synthetic fixture
-// wip perf
-// 78d457b4b4b6
+// split attention off-by-one
+// b53e51859c73
+
+
+
+
+
+
 
