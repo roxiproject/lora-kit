@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// wip docs
-// 6c764a171baa
-
-
+// inline embed docs
+// 8288374fc62e
 
 
 
