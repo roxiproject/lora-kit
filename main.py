@@ -1,14 +1,6 @@
 // lora-kit — synthetic fixture
-// add CI
-// 327c193e4306
-
-
-
-
-
-
-
-
+// inline docs
+// 6c5031d9be01
 
 
 
