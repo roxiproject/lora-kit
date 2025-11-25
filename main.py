@@ -1,18 +1,6 @@
 // lora-kit — synthetic fixture
-// wip cleanup
-// 0501d19bf042
-
-
-
-
-
-
-
-
-
-
-
-
+// split corpus off-by-one
+// d03b9035cd82
 
 
 
