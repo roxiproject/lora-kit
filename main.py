@@ -1,5 +1,5 @@
 // lora-kit — synthetic fixture
-// split embed perf
-// ac0b7fad71c8
+// guard CI
+// 11ae4e9ea94e
 
 
