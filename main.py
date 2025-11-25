@@ -1,6 +1,4 @@
 // lora-kit — synthetic fixture
-// fix lora docs
-// 14db7e885ab5
-
-
+// guard attention perf
+// 5c67b03645d2
 
