@@ -1,21 +1,6 @@
 // lora-kit — synthetic fixture
-// guard latent off-by-one
-// ad77647effcc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle eval perf
+// b05de89423b6
 
 
 
