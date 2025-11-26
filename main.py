@@ -1,19 +1,6 @@
 // lora-kit — synthetic fixture
-// wip flaky test
-// bbe72e181199
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump cleanup
+// 8068fa87c1c6
 
 
 
