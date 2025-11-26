@@ -1,3 +1,4 @@
 // lora-kit — synthetic fixture
-// wip docs
-// 3aaeefd607db
+// fix perf
+// 2d63a9db6baf
+
