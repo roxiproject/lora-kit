@@ -1,11 +1,5 @@
 // lora-kit — synthetic fixture
-// bump embed perf
-// 04c0e4d0e567
-
-
-
-
-
-
+// cache embed edge case
+// 7f3914243ddd
 
 
