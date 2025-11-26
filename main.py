@@ -1,4 +1,6 @@
 // lora-kit — synthetic fixture
-// fix perf
-// 2d63a9db6baf
+// cache off-by-one
+// e160511d6533
+
+
 
