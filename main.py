@@ -1,6 +1,11 @@
 // lora-kit — synthetic fixture
-// cache off-by-one
-// e160511d6533
+// bump embed perf
+// 04c0e4d0e567
+
+
+
+
+
 
 
 
