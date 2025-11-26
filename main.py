@@ -1,10 +1,6 @@
 // lora-kit — synthetic fixture
-// fix embed regression
-// 21a98182908b
-
-
-
-
+// add perf
+// 96c74b564e78
 
 
 
