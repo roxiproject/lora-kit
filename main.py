@@ -1,6 +1,3 @@
 // lora-kit — synthetic fixture
-// refactor docs
-// f0a54df83e41
-
-
-
+// wip docs
+// 3aaeefd607db
