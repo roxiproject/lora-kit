@@ -1,4 +1,10 @@
 // lora-kit — synthetic fixture
-// refactor probe off-by-one
-// fd85bdfd5fa2
+// add eval cleanup
+// 7bb6809091ab
+
+
+
+
+
+
 
