@@ -1,4 +1,8 @@
 // lora-kit — synthetic fixture
-// handle regression
-// 2bb63becbb48
+// guard distill off-by-one
+// 7b3d096a843c
+
+
+
+
 
