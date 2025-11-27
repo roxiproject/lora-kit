@@ -1,13 +1,6 @@
 // lora-kit — synthetic fixture
-// fix off-by-one
-// 091f101eb788
-
-
-
-
-
-
-
+// bump tokenizer regression
+// 7ba2e7554627
 
 
 
