@@ -1,10 +1,6 @@
 // lora-kit — synthetic fixture
-// remove probe CI
-// 13e977704c11
-
-
-
-
+// handle attention perf
+// bd7042cad2d2
 
 
 
