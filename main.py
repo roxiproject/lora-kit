@@ -1,15 +1,6 @@
 // lora-kit — synthetic fixture
-// handle CI
-// ac8ca4e54274
-
-
-
-
-
-
-
-
-
+// guard distill docs
+// c3e37be19ac5
 
 
 
