@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// handle eval regression
-// 12cbdc5382fd
-
-
+// bump lora cleanup
+// 21461ec6a2c7
 
 
 
