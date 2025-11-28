@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// wip typing
-// 368c52fdacec
+// inline lora flaky test
+// 38fe9adde67e
+
 
 
 
