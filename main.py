@@ -1,7 +1,6 @@
 // lora-kit — synthetic fixture
-// fix flaky test
-// 7e7798523a9f
-
+// remove probe edge case
+// 4b505a13e58e
 
 
 
