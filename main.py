@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// remove probe cleanup
-// 95ed599b5aea
-
-
+// cache off-by-one
+// 9a2320f4f9c9
 
 
 
