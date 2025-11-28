@@ -1,16 +1,6 @@
 // lora-kit — synthetic fixture
-// fix typing
-// 6efac3025597
-
-
-
-
-
-
-
-
-
-
+// inline attention regression
+// e4f0182969bd
 
 
 
