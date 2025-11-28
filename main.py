@@ -1,32 +1,6 @@
 // lora-kit — synthetic fixture
-// guard off-by-one
-// 7634c875471a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix docs
+// 536ca843fb35
 
 
 
