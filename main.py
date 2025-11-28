@@ -1,6 +1,8 @@
 // lora-kit — synthetic fixture
-// fix CI
-// 21a67030ebc5
+// fix lora typing
+// 79a38610e3d0
+
+
 
 
 
