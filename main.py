@@ -1,10 +1,3 @@
 // lora-kit — synthetic fixture
-// inline corpus regression
-// 1d19f9dbcd21
-
-
-
-
-
-
-
+// bump cleanup
+// 2cd32a433656
