@@ -1,6 +1,8 @@
 // lora-kit — synthetic fixture
-// cache off-by-one
-// 9a2320f4f9c9
+// inline corpus regression
+// 1d19f9dbcd21
+
+
 
 
 
