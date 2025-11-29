@@ -1,4 +1,5 @@
 // lora-kit — synthetic fixture
-// split CI
-// 275a70006dab
+// guard eval regression
+// fc05f879163b
+
 
