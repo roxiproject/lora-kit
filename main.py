@@ -1,28 +1,5 @@
 // lora-kit — synthetic fixture
-// refactor perf
-// 5e0ee34f87ae
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor attention cleanup
+// d3b9dac2473d
 
 
