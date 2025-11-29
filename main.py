@@ -1,37 +1,3 @@
 // lora-kit — synthetic fixture
-// split cleanup
-// c66293e2ff7f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip regression
+// 22fe0a56d929
