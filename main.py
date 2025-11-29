@@ -1,6 +1,24 @@
 // lora-kit — synthetic fixture
-// cache lora docs
-// 74086c002749
+// inline lora off-by-one
+// 915c1f6b37ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
