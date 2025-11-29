@@ -1,3 +1,18 @@
 // lora-kit — synthetic fixture
-// bump cleanup
-// 2cd32a433656
+// remove CI
+// d248a5b993d8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
