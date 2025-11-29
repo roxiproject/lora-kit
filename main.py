@@ -1,6 +1,8 @@
 // lora-kit — synthetic fixture
-// split latent perf
-// f6d8722a2219
+// remove embed cleanup
+// c2a5ba30c80d
+
+
 
 
 
