@@ -1,6 +1,9 @@
 // lora-kit — synthetic fixture
-// bump docs
-// 879329b77dc4
+// guard embed edge case
+// 1bf4125953dd
+
+
+
 
 
 
