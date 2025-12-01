@@ -1,22 +1,6 @@
 // lora-kit — synthetic fixture
-// cache docs
-// 5491ec29fb2f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard perf
+// b03ec2659f3f
 
 
 
