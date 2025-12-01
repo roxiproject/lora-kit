@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// guard cleanup
-// 101bb5a8c812
-
-
+// bump docs
+// 879329b77dc4
 
 
 
