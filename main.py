@@ -1,20 +1,4 @@
 // lora-kit — synthetic fixture
-// guard attention regression
-// 1a783127bab2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add docs
+// a3f3baedb760
 
