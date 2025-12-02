@@ -1,5 +1,5 @@
 // lora-kit — synthetic fixture
-// fix tokenizer flaky test
-// cf1a244a6cb1
+// cache probe off-by-one
+// 458812f003b9
 
 
