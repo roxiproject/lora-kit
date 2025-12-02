@@ -1,9 +1,3 @@
 // lora-kit — synthetic fixture
-// guard corpus off-by-one
-// 42e2955083ce
-
-
-
-
-
-
+// handle off-by-one
+// bb41deca50c5
