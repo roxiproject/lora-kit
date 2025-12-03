@@ -1,19 +1,6 @@
 // lora-kit — synthetic fixture
-// add perf
-// 5cfb9416fc24
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard docs
+// d3125a7aad1a
 
 
 
