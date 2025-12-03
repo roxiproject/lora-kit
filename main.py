@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// fix cleanup
-// 2ef522496cce
+// inline off-by-one
+// 752143d96df5
 
 
 
