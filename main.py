@@ -1,9 +1,6 @@
 // lora-kit — synthetic fixture
-// remove lora CI
-// 8305acda2ad1
-
-
-
+// split typing
+// b740931aacd3
 
 
 
