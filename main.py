@@ -1,12 +1,6 @@
 // lora-kit — synthetic fixture
-// fix latent off-by-one
-// cfd4abe264b8
-
-
-
-
-
-
+// inline rlhf cleanup
+// 1419c35a98c2
 
 
 
