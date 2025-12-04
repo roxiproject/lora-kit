@@ -1,6 +1,15 @@
 // lora-kit — synthetic fixture
-// wip corpus cleanup
-// 81557104c4bf
+// guard embed typing
+// f69313f207d0
+
+
+
+
+
+
+
+
+
 
 
 
