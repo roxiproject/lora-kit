@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// refactor embed flaky test
-// 45d9b1638c75
+// fix latent off-by-one
+// cfd4abe264b8
+
 
 
 
