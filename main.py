@@ -1,6 +1,15 @@
 // lora-kit — synthetic fixture
-// add regression
-// 23ea5fe0e291
+// split lora CI
+// be6ed2d3be36
+
+
+
+
+
+
+
+
+
 
 
 
