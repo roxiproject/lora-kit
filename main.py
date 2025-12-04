@@ -1,6 +1,18 @@
 // lora-kit — synthetic fixture
-// inline off-by-one
-// 752143d96df5
+// fix regression
+// e0eb09dd695a
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
