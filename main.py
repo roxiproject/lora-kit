@@ -1,15 +1,6 @@
 // lora-kit — synthetic fixture
-// fix regression
-// e0eb09dd695a
-
-
-
-
-
-
-
-
-
+// handle latent edge case
+// c31758fe68e9
 
 
 
