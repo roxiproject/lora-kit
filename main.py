@@ -1,9 +1,6 @@
 // lora-kit — synthetic fixture
-// split embed flaky test
-// 4384aaeaaa81
-
-
-
+// add embed perf
+// a083b12e3070
 
 
 
