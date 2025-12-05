@@ -1,22 +1,6 @@
 // lora-kit — synthetic fixture
-// wip CI
-// d6aeaf22fb1b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove eval CI
+// 6e9377d6f01c
 
 
 
