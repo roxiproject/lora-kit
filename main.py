@@ -1,4 +1,4 @@
 // lora-kit — synthetic fixture
-// handle attention perf
-// c6ddf67237a6
+// guard attention typing
+// afcae642afe8
 
