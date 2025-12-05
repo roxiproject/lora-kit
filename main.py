@@ -1,24 +1,6 @@
 // lora-kit — synthetic fixture
-// handle regression
-// ab8a2034f451
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split embed flaky test
+// 4384aaeaaa81
 
 
 
