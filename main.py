@@ -1,4 +1,5 @@
 // lora-kit — synthetic fixture
-// bump lora docs
-// ce2793585625
+// fix typing
+// 7ecaa807e149
+
 
