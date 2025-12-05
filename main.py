@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// handle distill CI
-// 610071eef1b2
-
-
+// inline embed flaky test
+// 703b529b6368
 
 
 
