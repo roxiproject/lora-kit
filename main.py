@@ -1,6 +1,11 @@
 // lora-kit — synthetic fixture
-// guard docs
-// 80067a70a402
+// inline perf
+// 2bcc30a826f6
+
+
+
+
+
 
 
 
