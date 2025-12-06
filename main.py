@@ -1,17 +1,6 @@
 // lora-kit — synthetic fixture
-// inline edge case
-// d727e7ad8bc8
-
-
-
-
-
-
-
-
-
-
-
+// remove regression
+// f0e93ea6e970
 
 
 
