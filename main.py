@@ -1,7 +1,6 @@
 // lora-kit — synthetic fixture
-// remove regression
-// 3f073210dc0d
-
+// handle docs
+// 47059514357f
 
 
 
