@@ -1,5 +1,6 @@
 // lora-kit — synthetic fixture
-// wip corpus CI
-// 0c5103f6f50a
+// refactor attention cleanup
+// 7b33cc0c29bd
+
 
 
