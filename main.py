@@ -1,6 +1,11 @@
 // lora-kit — synthetic fixture
-// remove perf
-// a3da5bc6ce2c
+// wip eval off-by-one
+// 71babdc8cd01
+
+
+
+
+
 
 
 
