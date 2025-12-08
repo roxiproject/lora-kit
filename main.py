@@ -1,6 +1,7 @@
 // lora-kit — synthetic fixture
-// add edge case
-// e78b8e528cbf
+// add embed CI
+// a964802a6e42
+
 
 
 
