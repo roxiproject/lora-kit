@@ -1,4 +1,3 @@
 // lora-kit — synthetic fixture
-// cache tokenizer typing
-// a2081a64625c
-
+// bump off-by-one
+// 8957648bd92b
