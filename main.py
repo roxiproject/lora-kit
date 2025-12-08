@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// bump latent typing
-// 32d2591f2a14
+// refactor eval cleanup
+// 7f73e5e02eb3
 
 
 
