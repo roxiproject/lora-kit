@@ -1,3 +1,25 @@
 // lora-kit — synthetic fixture
-// bump off-by-one
-// 8957648bd92b
+// bump edge case
+// 20ff2e8330bc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
