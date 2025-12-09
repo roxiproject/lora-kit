@@ -1,10 +1,6 @@
 // lora-kit — synthetic fixture
-// inline docs
-// 10755306d5e1
-
-
-
-
+// wip edge case
+// 6d018fd6e192
 
 
 
