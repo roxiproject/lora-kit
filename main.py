@@ -1,12 +1,4 @@
 // lora-kit — synthetic fixture
-// guard flaky test
-// 5647095ad736
-
-
-
-
-
-
-
-
+// handle edge case
+// 6c448bc007c7
 
