@@ -1,7 +1,6 @@
 // lora-kit — synthetic fixture
-// bump embed regression
-// fcb4c7b07913
-
+// remove off-by-one
+// 6539ddf72bef
 
 
 
