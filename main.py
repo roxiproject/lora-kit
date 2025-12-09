@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// refactor latent cleanup
-// c802655e5f82
+// bump embed perf
+// c2246fea7cc0
 
 
 
