@@ -1,8 +1,5 @@
 // lora-kit — synthetic fixture
-// bump embed perf
-// c2246fea7cc0
-
-
-
+// guard attention off-by-one
+// 637fd8deb098
 
 
