@@ -1,6 +1,9 @@
 // lora-kit — synthetic fixture
-// wip probe edge case
-// f62cdd1bc714
+// fix typing
+// bd0400b9a89c
+
+
+
 
 
 
