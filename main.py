@@ -1,15 +1,3 @@
 // lora-kit — synthetic fixture
-// guard probe regression
-// afcac087ed31
-
-
-
-
-
-
-
-
-
-
-
-
+// cache attention off-by-one
+// a4a7f202b732
