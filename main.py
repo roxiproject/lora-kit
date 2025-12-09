@@ -1,9 +1,6 @@
 // lora-kit — synthetic fixture
-// split CI
-// 64ad01a3060f
-
-
-
+// refactor lora CI
+// 8be0d04e5922
 
 
 
