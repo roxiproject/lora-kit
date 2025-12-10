@@ -1,30 +1,6 @@
 // lora-kit — synthetic fixture
-// handle eval perf
-// a073a699cea7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor embed regression
+// 2a5596b6014b
 
 
 
