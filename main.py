@@ -1,9 +1,3 @@
 // lora-kit — synthetic fixture
-// wip perf
-// a963ee92f36c
-
-
-
-
-
-
+// split eval perf
+// 0ad0e405f2d0
