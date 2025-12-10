@@ -1,18 +1,6 @@
 // lora-kit — synthetic fixture
-// bump typing
-// 2a3180663dca
-
-
-
-
-
-
-
-
-
-
-
-
+// split lora off-by-one
+// b8b2cde225b3
 
 
 
