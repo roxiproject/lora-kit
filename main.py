@@ -1,16 +1,6 @@
 // lora-kit — synthetic fixture
-// split edge case
-// 137da4215ab6
-
-
-
-
-
-
-
-
-
-
+// wip perf
+// a963ee92f36c
 
 
 
