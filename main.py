@@ -1,22 +1,3 @@
 // lora-kit — synthetic fixture
-// wip probe flaky test
-// 2e85916a00d0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle off-by-one
+// a0d0c2cabeac
