@@ -1,6 +1,13 @@
 // lora-kit — synthetic fixture
-// handle latent cleanup
-// 9a532758e9c0
+// bump latent docs
+// b48dbe2af60e
+
+
+
+
+
+
+
 
 
 
