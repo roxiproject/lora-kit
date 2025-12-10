@@ -1,6 +1,12 @@
 // lora-kit — synthetic fixture
-// bump cleanup
-// 2f71102a5f51
+// handle distill off-by-one
+// 57db5d4391ce
+
+
+
+
+
+
 
 
 
