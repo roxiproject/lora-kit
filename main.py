@@ -1,26 +1,6 @@
 // lora-kit — synthetic fixture
-// inline perf
-// df46e4da0025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor attention off-by-one
+// 260f0c84f20b
 
 
 
