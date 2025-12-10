@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// split CI
-// 2a103d0e52ce
-
-
+// wip CI
+// 2e3ae25680c5
 
 
 
