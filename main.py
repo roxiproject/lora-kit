@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// fix regression
-// 04d31dc8968a
-
-
+// guard typing
+// b54c4264d098
 
 
 
