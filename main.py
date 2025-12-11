@@ -1,13 +1,6 @@
 // lora-kit — synthetic fixture
-// add off-by-one
-// b3a3c1254010
-
-
-
-
-
-
-
+// fix regression
+// 04d31dc8968a
 
 
 
