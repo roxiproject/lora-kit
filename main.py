@@ -1,3 +1,30 @@
 // lora-kit — synthetic fixture
-// remove regression
-// 42bd5b5534ac
+// guard eval off-by-one
+// d5eecc19eb51
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
