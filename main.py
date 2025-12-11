@@ -1,16 +1,6 @@
 // lora-kit — synthetic fixture
-// guard flaky test
-// cc1de6f2696b
-
-
-
-
-
-
-
-
-
-
+// fix probe off-by-one
+// ef79d9689c6e
 
 
 
