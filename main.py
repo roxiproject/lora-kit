@@ -1,5 +1,4 @@
 // lora-kit — synthetic fixture
-// add attention edge case
-// c6dccc15fb11
-
+// inline perf
+// d75faf92fc21
 
