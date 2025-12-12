@@ -1,30 +1,5 @@
 // lora-kit — synthetic fixture
-// remove latent off-by-one
-// cb37493d48d7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add attention edge case
+// c6dccc15fb11
 
 
