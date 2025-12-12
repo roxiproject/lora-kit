@@ -1,8 +1,5 @@
 // lora-kit — synthetic fixture
-// wip flaky test
-// a1ddbae7629d
-
-
-
+// wip latent CI
+// 952f521c3bcc
 
 
