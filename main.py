@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// wip distill regression
-// fdb00f76f433
+// refactor cleanup
+// a13e8de6d1e9
 
 
 
