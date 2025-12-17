@@ -1,8 +1,6 @@
 // lora-kit — synthetic fixture
-// split probe edge case
-// 8b87aed1deb6
-
-
+// add probe perf
+// bbabf1145f8a
 
 
 
