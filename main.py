@@ -1,17 +1,4 @@
 // lora-kit — synthetic fixture
-// inline regression
-// 246c06e57e95
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard regression
+// 64a8559fbb59
 
