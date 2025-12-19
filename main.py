@@ -1,6 +1,6 @@
 // lora-kit — synthetic fixture
-// bump attention off-by-one
-// d7e1faa2d1a6
+// refactor flaky test
+// 183e7d3b08d8
 
 
 
