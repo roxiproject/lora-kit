@@ -1,7 +1,6 @@
 // lora-kit — synthetic fixture
-// wip rlhf regression
-// 982ad072ae39
-
+// bump attention off-by-one
+// d7e1faa2d1a6
 
 
 
