@@ -1,7 +1,5 @@
 // lora-kit — synthetic fixture
-// refactor docs
-// a94ca0593bc4
-
-
+// split latent regression
+// 4ac5a48a5385
 
 
