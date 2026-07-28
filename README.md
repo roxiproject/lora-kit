@@ -113,3 +113,15 @@ python3 -m pytest -q
 checks for `A`/`B`, frozen-base-weight guarantees, merge/unmerge
 equivalence, multi-adapter swapping, Adam optimizer correctness, and
 save/load round trips — all passing.
+
+## Related projects
+
+Part of the roxiproject ML/research thread:
+
+- [attention](https://github.com/roxiproject/attention) — attention/KV-cache implementations, verified bit-for-bit against a full forward pass.
+- [attention-probe-kit](https://github.com/roxiproject/attention-probe-kit) — instruments attention heads to extract/visualize what a probe attends to.
+- [probe-experiments](https://github.com/roxiproject/probe-experiments) — linear/non-linear probing experiments over model activations.
+- [embed-bench](https://github.com/roxiproject/embed-bench) — embedding quality benchmarking (nearest-neighbor recovery under k-means/LSH/IVF).
+- [corpus-kit / corpus-bench / corpus-tokenizer-kit](https://github.com/roxiproject) — corpus/tokenizer pipeline.
+- [rlhf-experiments / rlhf-distill-experiments](https://github.com/roxiproject) — RLHF training/distillation.
+- [roxiproject](https://github.com/roxiproject/roxiproject) — account root / full project index.
